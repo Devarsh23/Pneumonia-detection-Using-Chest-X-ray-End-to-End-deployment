@@ -1,0 +1,9 @@
+The data for this project can be downloaded by : 
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
+I can not upload data here because github only allows 25mb data file to be uploaded and also it can be easily
+downloaded from kaggle website. Also i suggest you to run these program on kaggle kernel Because it provide GPU
+and is user friendly
+
+To view output 
+https://devarshpatel.weebly.com/pneumonia-detection.html 
