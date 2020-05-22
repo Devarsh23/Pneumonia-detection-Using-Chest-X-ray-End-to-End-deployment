@@ -4,3 +4,13 @@ The lungs_training.ipynb file describes about the use of transfer learning techn
 At the end the model named vgg16.h5 is saved so it can be used of other purpose in further app deployment
 Now in app.ipynb file we have used flask and flassger api to build the front end for the system and focus on the how the output will be displayed is in these link https://devarshpatel.weebly.com/pneumonia-detection.html
 please visit the above file to better understand the working of the deployment.
+
+The data for this project can be downloaded by: 
+https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+
+I cannot upload data here because GitHub only allows 25mb data file to be uploaded and also it can be easily
+downloaded from Kaggle website. Also, i suggest you to run this program on Kaggle kernel Because it provides GPU
+and is user friendly
+
+To view output 
+https://devarshpatel.weebly.com/pneumonia-detection.html
