@@ -1,4 +1,5 @@
 # Pneumonia-detection-Using-Chest-X-ray-End-to-End-deployment
+## [Click Here to go to Detailed explanation of code in towards data science article](https://towardsdatascience.com/pneumonia-detection-using-deep-learning-and-swagger-18aa5e8af576)
 This repository describes the use of data science technique for pneumonia detection using X-Ray
 The lungs_training.ipynb file describes about the use of transfer learning technique like vgg16 in training and creating model to predict the scope of pneumonia by analysing the image features.
 At the end the model named vgg16.h5 is saved so it can be used of other purpose in further app deployment
